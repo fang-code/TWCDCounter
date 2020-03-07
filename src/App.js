@@ -15,10 +15,10 @@ import "./index.css";
 import { initializeApp } from "firebase";
 import "firebase/app";
 var firebaseConfig = {
-  apiKey: "AIzaSyC7B4gF3SLM67krt-m3KpcfedhVqvrQmqg",
-  authDomain: "djnycounter.firebaseapp.com",
-  databaseURL: "https://djnycounter.firebaseio.com",
-  storageBucket: "djnycounter.appspot.com"
+    apiKey: "AIzaSyBpkS589Zkdr_tejf_57o19B3Sy67Ds2oQ",
+    authDomain: "djvancounter-6acd.firebaseapp.com",
+    databaseURL: "https://djvancounter-6acd.firebaseio.com",
+    storageBucket: "djvancounter-6acd.appspot.com"
 };
 
 const firebaseApp = initializeApp(firebaseConfig);
@@ -100,7 +100,7 @@ const App = () => {
     <Container maxWidth="sm">
       <Box my={4}>
         <Typography variant="h6" className={classes.container}>
-          發一崇德大紐約地區所屬佛堂
+          發一崇德溫哥華地區所屬佛堂
           <br />
           響應您我凝聚善願同步誦經祈願
           <br />

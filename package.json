@@ -1,5 +1,5 @@
 {
-  "name": "DJNYCounter",
+  "name": "DJVanCounter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,7 +7,7 @@
     "firebase": "^7.8.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "0.9.x"
+    "react-scripts": "^3.4.0"
   },
   "devDependencies": {
     "gh-pages": "^2.2.0"
@@ -20,5 +20,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://imakou.github.io/DJNYCounter"
+  "homepage": "http://fang-code.github.io/DJVanCounter"
 }
