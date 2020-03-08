@@ -106,9 +106,9 @@ const App = () => {
           <br />
           誦經累計次數3600次數10800遍
           <br />
-          晚餐吃素＆晚上8點恭誦
+          吃素一餐並恭誦
           <br />
-          彌勒救苦真經，心經各三遍
+          彌勒救苦真經三遍
           <br />
           誦經後點擊「我已經完成誦經」迴向
           <br />
@@ -130,7 +130,7 @@ const App = () => {
             <Fragment>
               <Typography variant="h5">誦經累計次數：{localCount}</Typography>
               <span className={classes.goalSpan}>
-                恭誦彌勒救苦真經、心經：{localCount * 3} 遍
+                恭誦彌勒救苦真經：{localCount * 3} 遍
               </span>
             </Fragment>
           ) : (
