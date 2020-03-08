@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/DJVanCounter/static/css/main.7561bac2.chunk.css",
-    "main.js": "/DJVanCounter/static/js/main.248a3697.chunk.js",
-    "main.js.map": "/DJVanCounter/static/js/main.248a3697.chunk.js.map",
+    "main.js": "/DJVanCounter/static/js/main.ebc44638.chunk.js",
+    "main.js.map": "/DJVanCounter/static/js/main.ebc44638.chunk.js.map",
     "runtime-main.js": "/DJVanCounter/static/js/runtime-main.9b25d053.js",
     "runtime-main.js.map": "/DJVanCounter/static/js/runtime-main.9b25d053.js.map",
     "static/js/2.12916041.chunk.js": "/DJVanCounter/static/js/2.12916041.chunk.js",
     "static/js/2.12916041.chunk.js.map": "/DJVanCounter/static/js/2.12916041.chunk.js.map",
     "index.html": "/DJVanCounter/index.html",
-    "precache-manifest.2709b3617a6711d56c58868688a74f98.js": "/DJVanCounter/precache-manifest.2709b3617a6711d56c58868688a74f98.js",
+    "precache-manifest.cf37f6a18bb030caeb4c02f38238ec12.js": "/DJVanCounter/precache-manifest.cf37f6a18bb030caeb4c02f38238ec12.js",
     "service-worker.js": "/DJVanCounter/service-worker.js",
     "static/css/main.7561bac2.chunk.css.map": "/DJVanCounter/static/css/main.7561bac2.chunk.css.map",
     "static/js/2.12916041.chunk.js.LICENSE.txt": "/DJVanCounter/static/js/2.12916041.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.9b25d053.js",
     "static/js/2.12916041.chunk.js",
     "static/css/main.7561bac2.chunk.css",
-    "static/js/main.248a3697.chunk.js"
+    "static/js/main.ebc44638.chunk.js"
   ]
 }
