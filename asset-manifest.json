@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/DJVanCounter/static/css/main.7561bac2.chunk.css",
-    "main.js": "/DJVanCounter/static/js/main.e77e48ce.chunk.js",
-    "main.js.map": "/DJVanCounter/static/js/main.e77e48ce.chunk.js.map",
-    "runtime-main.js": "/DJVanCounter/static/js/runtime-main.9b25d053.js",
-    "runtime-main.js.map": "/DJVanCounter/static/js/runtime-main.9b25d053.js.map",
-    "static/js/2.12916041.chunk.js": "/DJVanCounter/static/js/2.12916041.chunk.js",
-    "static/js/2.12916041.chunk.js.map": "/DJVanCounter/static/js/2.12916041.chunk.js.map",
-    "index.html": "/DJVanCounter/index.html",
-    "precache-manifest.229835901a1474aa870c98123446c149.js": "/DJVanCounter/precache-manifest.229835901a1474aa870c98123446c149.js",
-    "service-worker.js": "/DJVanCounter/service-worker.js",
-    "static/css/main.7561bac2.chunk.css.map": "/DJVanCounter/static/css/main.7561bac2.chunk.css.map",
-    "static/js/2.12916041.chunk.js.LICENSE.txt": "/DJVanCounter/static/js/2.12916041.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/DJVanCounter/static/media/bbe3559b-3585-4c7a-91ba-10706bd81a53.2ce30af6.jpeg"
+    "main.css": "/TWCDCounter/static/css/main.8a889c61.chunk.css",
+    "main.js": "/TWCDCounter/static/js/main.b9334b10.chunk.js",
+    "main.js.map": "/TWCDCounter/static/js/main.b9334b10.chunk.js.map",
+    "runtime-main.js": "/TWCDCounter/static/js/runtime-main.aaf8a477.js",
+    "runtime-main.js.map": "/TWCDCounter/static/js/runtime-main.aaf8a477.js.map",
+    "static/js/2.767d3fdf.chunk.js": "/TWCDCounter/static/js/2.767d3fdf.chunk.js",
+    "static/js/2.767d3fdf.chunk.js.map": "/TWCDCounter/static/js/2.767d3fdf.chunk.js.map",
+    "index.html": "/TWCDCounter/index.html",
+    "precache-manifest.bfc09c11565734faf6740c48e2622603.js": "/TWCDCounter/precache-manifest.bfc09c11565734faf6740c48e2622603.js",
+    "service-worker.js": "/TWCDCounter/service-worker.js",
+    "static/css/main.8a889c61.chunk.css.map": "/TWCDCounter/static/css/main.8a889c61.chunk.css.map",
+    "static/js/2.767d3fdf.chunk.js.LICENSE.txt": "/TWCDCounter/static/js/2.767d3fdf.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/TWCDCounter/static/media/bbe3559b-3585-4c7a-91ba-10706bd81a53.2ce30af6.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b25d053.js",
-    "static/js/2.12916041.chunk.js",
-    "static/css/main.7561bac2.chunk.css",
-    "static/js/main.e77e48ce.chunk.js"
+    "static/js/runtime-main.aaf8a477.js",
+    "static/js/2.767d3fdf.chunk.js",
+    "static/css/main.8a889c61.chunk.css",
+    "static/js/main.b9334b10.chunk.js"
   ]
 }
