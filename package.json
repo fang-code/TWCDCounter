@@ -1,5 +1,5 @@
 {
-  "name": "twcdCounter",
+  "name": "twcdcounter",
   "version": "0.1.0",
   "dependencies": {
     "@material-ui/core": "^4.9.2",
@@ -19,7 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://fang-code.github.io/TWCDCounter",
+  "homepage": "http://fang-code.github.io/twcd",
   "browserslist": {
     "production": [
       ">0.2%",
