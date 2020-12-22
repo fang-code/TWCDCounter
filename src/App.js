@@ -100,7 +100,7 @@ const App = () => {
     <Container maxWidth="sm">
       <Box my={4}>
         <Typography variant="h6" className={classes.container}>
-          發一崇德桃園道場新竹區濨德佛堂
+          發一崇德桃園道場竹一區濨德佛堂
           <br />
           響應您我凝聚善願同步誦經祈願
           <br />
