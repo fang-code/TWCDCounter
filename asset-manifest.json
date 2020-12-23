@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/twcd/static/css/main.41f80908.chunk.css",
-    "main.js": "/twcd/static/js/main.9fdad8a8.chunk.js",
-    "main.js.map": "/twcd/static/js/main.9fdad8a8.chunk.js.map",
-    "runtime-main.js": "/twcd/static/js/runtime-main.eaf58df9.js",
-    "runtime-main.js.map": "/twcd/static/js/runtime-main.eaf58df9.js.map",
-    "static/js/2.d541ea46.chunk.js": "/twcd/static/js/2.d541ea46.chunk.js",
-    "static/js/2.d541ea46.chunk.js.map": "/twcd/static/js/2.d541ea46.chunk.js.map",
-    "index.html": "/twcd/index.html",
-    "precache-manifest.30b60c4a23a79600b2b3998eb83203da.js": "/twcd/precache-manifest.30b60c4a23a79600b2b3998eb83203da.js",
-    "service-worker.js": "/twcd/service-worker.js",
-    "static/css/main.41f80908.chunk.css.map": "/twcd/static/css/main.41f80908.chunk.css.map",
-    "static/js/2.d541ea46.chunk.js.LICENSE.txt": "/twcd/static/js/2.d541ea46.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/twcd/static/media/bbe3559b-3585-4c7a-91ba-10706bd81a53.2ce30af6.jpeg"
+    "main.css": "/TWCDCounter/static/css/main.8a889c61.chunk.css",
+    "main.js": "/TWCDCounter/static/js/main.9fdad8a8.chunk.js",
+    "main.js.map": "/TWCDCounter/static/js/main.9fdad8a8.chunk.js.map",
+    "runtime-main.js": "/TWCDCounter/static/js/runtime-main.9decfa7b.js",
+    "runtime-main.js.map": "/TWCDCounter/static/js/runtime-main.9decfa7b.js.map",
+    "static/js/2.4f7baee1.chunk.js": "/TWCDCounter/static/js/2.4f7baee1.chunk.js",
+    "static/js/2.4f7baee1.chunk.js.map": "/TWCDCounter/static/js/2.4f7baee1.chunk.js.map",
+    "index.html": "/TWCDCounter/index.html",
+    "precache-manifest.74ee98d3887522a3d762341a1817e9b5.js": "/TWCDCounter/precache-manifest.74ee98d3887522a3d762341a1817e9b5.js",
+    "service-worker.js": "/TWCDCounter/service-worker.js",
+    "static/css/main.8a889c61.chunk.css.map": "/TWCDCounter/static/css/main.8a889c61.chunk.css.map",
+    "static/js/2.4f7baee1.chunk.js.LICENSE.txt": "/TWCDCounter/static/js/2.4f7baee1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/TWCDCounter/static/media/bbe3559b-3585-4c7a-91ba-10706bd81a53.2ce30af6.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.eaf58df9.js",
-    "static/js/2.d541ea46.chunk.js",
-    "static/css/main.41f80908.chunk.css",
+    "static/js/runtime-main.9decfa7b.js",
+    "static/js/2.4f7baee1.chunk.js",
+    "static/css/main.8a889c61.chunk.css",
     "static/js/main.9fdad8a8.chunk.js"
   ]
 }
