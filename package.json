@@ -19,7 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://fang-code.github.io/twcd",
+  "homepage": "http://fang-code.github.io/TWCDCounter",
   "browserslist": {
     "production": [
       ">0.2%",
